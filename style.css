@@ -28,7 +28,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-weight: bold;
 }
@@ -65,7 +65,7 @@ ul {
 }
 
 ul li {
-    background-color: #e0f7fa;
+    background-color: #000000;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 4px;
